@@ -83,7 +83,6 @@ Users can dynamically filter dashboard data using:
 - Power Query
 - Pivot Tables
 - Pivot Charts
-- Data Modeling
 - Slicers
 - Conditional Formatting
 - Map Charts
