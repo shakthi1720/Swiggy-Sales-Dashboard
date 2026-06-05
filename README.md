@@ -104,5 +104,10 @@ Users can dynamically filter dashboard data using:
 
 ---
 
-
 ## Project Structure
+
+---
+
+## Author
+
+### Shakthi Sharma
